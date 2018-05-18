@@ -6,7 +6,7 @@ Steps in reproducing the reconstructions using the MATLAB code:
 
 (1) Download all github code into the working directory
 
-(2) Download the subdirectories containing all the input data from: clifford.ldeo.columbia.edu/nsteiger/hydro_input into the working directory.
+(2) Download the subdirectories containing all the input data from: 'clifford.ldeo.columbia.edu/nsteiger/hydro_input' into the working directory.
 
 (3) Make a selection of the reconstruction choices (e.g., seasonality of the reconstruction, state variables to include, etc.) by directly editing and commenting out key lines in the file 'prmtrs_ann_da.m'. This file sets the parameters of the reconstruction and can be modified by the user to reproduce the reconstructions in PHYDA (or to create reconstructions using different choices). For reproducing PHYDA, only modify the lines indicating the seasonality of the reconstruction (lines 22/23, 26/27, 30/31) with all other lines remaining as they are. See the PHYDA publication for more reconstruction details.
 
