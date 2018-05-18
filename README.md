@@ -1,6 +1,6 @@
 # PHYDA
 
-This repository contains the code necessary for performing the reconstructions presented in: Steiger, N. J., Smerdon, J. E., Cook, E. R., and Cook, B. I., "A reconstruction of global hydroclimate and dynamical variables over the Common Era", Scientific Data, 5:180086, doi: 10.1038/sdata.2018.86.
+This repository contains the code necessary for performing the reconstructions of the Paleo Hydrodynamics Data Assimilation product (PHYDA) presented in: Steiger, N. J., Smerdon, J. E., Cook, E. R., and Cook, B. I., "A reconstruction of global hydroclimate and dynamical variables over the Common Era", Scientific Data, 5:180086, doi: 10.1038/sdata.2018.86.
 
 Steps in reproducing the reconstructions using the MATLAB code:
 
