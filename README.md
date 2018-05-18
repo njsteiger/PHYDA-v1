@@ -14,6 +14,7 @@ Steps in reproducing the reconstructions using the MATLAB code:
 
 Please note that a large amount of RAM may be required to perform reconstructions using this code, depending on the choice of state variables to include in the reconstruction or if full posterior ensembles are to be saved; some choices may result in state variables several tens of GB or possibly over 100 GB in size. These reconstructions were run using Matlab2015a on a linux machine with 128 GB of RAM.
 
+Nathan Steiger, LDEO, Columbia University, May 2018
 
 
 
